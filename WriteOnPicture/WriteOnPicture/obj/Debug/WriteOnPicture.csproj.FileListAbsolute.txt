@@ -1,0 +1,11 @@
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\bin\Debug\WriteOnPicture.exe.config
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\bin\Debug\WriteOnPicture.exe
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\bin\Debug\WriteOnPicture.pdb
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\obj\Debug\WriteOnPicture.csproj.AssemblyReference.cache
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\obj\Debug\WriteOnPicture.csproj.SuggestedBindingRedirects.cache
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\obj\Debug\WriteOnPicture.Form1.resources
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\obj\Debug\WriteOnPicture.Properties.Resources.resources
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\obj\Debug\WriteOnPicture.csproj.GenerateResource.cache
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\obj\Debug\WriteOnPicture.csproj.CoreCompileInputs.cache
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\obj\Debug\WriteOnPicture.exe
+C:\Users\TMY\source\repos\WriteOnPicture\WriteOnPicture\obj\Debug\WriteOnPicture.pdb

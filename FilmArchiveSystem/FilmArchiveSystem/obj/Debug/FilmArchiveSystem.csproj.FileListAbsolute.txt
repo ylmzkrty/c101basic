@@ -1,0 +1,11 @@
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\obj\Debug\FilmArchiveSystem.csproj.AssemblyReference.cache
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\obj\Debug\FilmArchiveSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\obj\Debug\FilmArchiveSystem.Form1.resources
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\obj\Debug\FilmArchiveSystem.Properties.Resources.resources
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\obj\Debug\FilmArchiveSystem.csproj.GenerateResource.cache
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\obj\Debug\FilmArchiveSystem.csproj.CoreCompileInputs.cache
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\bin\Debug\FilmArchiveSystem.exe.config
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\bin\Debug\FilmArchiveSystem.exe
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\bin\Debug\FilmArchiveSystem.pdb
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\obj\Debug\FilmArchiveSystem.exe
+C:\Users\TMY\source\repos\FilmArchiveSystem\FilmArchiveSystem\obj\Debug\FilmArchiveSystem.pdb

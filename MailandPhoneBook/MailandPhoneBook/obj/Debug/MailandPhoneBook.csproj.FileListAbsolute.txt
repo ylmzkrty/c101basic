@@ -1,0 +1,11 @@
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\bin\Debug\MailandPhoneBook.exe.config
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\bin\Debug\MailandPhoneBook.exe
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\bin\Debug\MailandPhoneBook.pdb
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\obj\Debug\MailandPhoneBook.csproj.AssemblyReference.cache
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\obj\Debug\MailandPhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\obj\Debug\MailandPhoneBook.Form1.resources
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\obj\Debug\MailandPhoneBook.Properties.Resources.resources
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\obj\Debug\MailandPhoneBook.csproj.GenerateResource.cache
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\obj\Debug\MailandPhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\obj\Debug\MailandPhoneBook.exe
+C:\Users\TMY\source\repos\MailandPhoneBook\MailandPhoneBook\obj\Debug\MailandPhoneBook.pdb

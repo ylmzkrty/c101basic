@@ -1,0 +1,12 @@
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\bin\Debug\User-to-UserMessagingApp.exe.config
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\bin\Debug\User-to-UserMessagingApp.exe
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\bin\Debug\User-to-UserMessagingApp.pdb
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\obj\Debug\User-to-UserMessagingApp.csproj.AssemblyReference.cache
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\obj\Debug\User-to-UserMessagingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\obj\Debug\User_to_UserMessagingApp.Form1.resources
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\obj\Debug\User_to_UserMessagingApp.Form2.resources
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\obj\Debug\User_to_UserMessagingApp.Properties.Resources.resources
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\obj\Debug\User-to-UserMessagingApp.csproj.GenerateResource.cache
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\obj\Debug\User-to-UserMessagingApp.csproj.CoreCompileInputs.cache
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\obj\Debug\User-to-UserMessagingApp.exe
+C:\Users\TMY\source\repos\User-to-UserMessagingApp\User-to-UserMessagingApp\obj\Debug\User-to-UserMessagingApp.pdb

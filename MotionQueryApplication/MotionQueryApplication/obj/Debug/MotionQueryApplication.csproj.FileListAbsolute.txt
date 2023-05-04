@@ -1,0 +1,11 @@
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\bin\Debug\MotionQueryApplication.exe.config
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\bin\Debug\MotionQueryApplication.exe
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\bin\Debug\MotionQueryApplication.pdb
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\obj\Debug\MotionQueryApplication.csproj.AssemblyReference.cache
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\obj\Debug\MotionQueryApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\obj\Debug\MotionQueryApplication.Form1.resources
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\obj\Debug\MotionQueryApplication.Properties.Resources.resources
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\obj\Debug\MotionQueryApplication.csproj.GenerateResource.cache
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\obj\Debug\MotionQueryApplication.csproj.CoreCompileInputs.cache
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\obj\Debug\MotionQueryApplication.exe
+C:\Users\TMY\source\repos\MotionQueryApplication\MotionQueryApplication\obj\Debug\MotionQueryApplication.pdb

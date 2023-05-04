@@ -1,0 +1,11 @@
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\bin\Debug\ExchangeOffice.exe.config
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\bin\Debug\ExchangeOffice.exe
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\bin\Debug\ExchangeOffice.pdb
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\obj\Debug\ExchangeOffice.csproj.AssemblyReference.cache
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\obj\Debug\ExchangeOffice.csproj.SuggestedBindingRedirects.cache
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\obj\Debug\ExchangeOffice.Form1.resources
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\obj\Debug\ExchangeOffice.Properties.Resources.resources
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\obj\Debug\ExchangeOffice.csproj.GenerateResource.cache
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\obj\Debug\ExchangeOffice.csproj.CoreCompileInputs.cache
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\obj\Debug\ExchangeOffice.exe
+C:\Users\TMY\source\repos\ExchangeOffice\ExchangeOffice\obj\Debug\ExchangeOffice.pdb

@@ -1,0 +1,12 @@
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\obj\Debug\PoliticalElection.csproj.AssemblyReference.cache
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\obj\Debug\PoliticalElection.csproj.SuggestedBindingRedirects.cache
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\obj\Debug\PoliticalElection.FrmVote.resources
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\obj\Debug\PoliticalElection.FrmGraphic.resources
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\obj\Debug\PoliticalElection.Properties.Resources.resources
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\obj\Debug\PoliticalElection.csproj.GenerateResource.cache
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\obj\Debug\PoliticalElection.csproj.CoreCompileInputs.cache
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\bin\Debug\PoliticalElection.exe.config
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\bin\Debug\PoliticalElection.exe
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\bin\Debug\PoliticalElection.pdb
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\obj\Debug\PoliticalElection.exe
+C:\Users\TMY\source\repos\PoliticalElection\PoliticalElection\obj\Debug\PoliticalElection.pdb

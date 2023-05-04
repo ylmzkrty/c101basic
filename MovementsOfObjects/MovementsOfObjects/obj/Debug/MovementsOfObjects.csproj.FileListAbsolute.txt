@@ -1,0 +1,11 @@
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\bin\Debug\MovementsOfObjects.exe.config
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\bin\Debug\MovementsOfObjects.exe
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\bin\Debug\MovementsOfObjects.pdb
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\obj\Debug\MovementsOfObjects.csproj.AssemblyReference.cache
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\obj\Debug\MovementsOfObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\obj\Debug\MovementsOfObjects.Form1.resources
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\obj\Debug\MovementsOfObjects.Properties.Resources.resources
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\obj\Debug\MovementsOfObjects.csproj.GenerateResource.cache
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\obj\Debug\MovementsOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\obj\Debug\MovementsOfObjects.exe
+C:\Users\TMY\source\repos\MovementsOfObjects\MovementsOfObjects\obj\Debug\MovementsOfObjects.pdb
